@@ -15,9 +15,11 @@ By combining sentiment data with historical trading data, I calculated the avera
 - Matplotlib
 ## Visualizations
 
-## 📊 Average Profit by Sentiment
+## Average Profit by Sentiment
 ![Bar Chart](Images/Screenshot%202025-11-26%20at%201.29.19%20AM.png)
 
-## 🥧 Win Rate by Sentiment
+## Win Rate by Sentiment
 ![Pie Chart](Images/Screenshot%202025-11-26%20at%201.30.03%20AM.png)
 
+## Conclusion:
+The analysis shows that Bitcoin trades performed differently during various sentiment conditions. Extreme Greed had the highest profit potential, while Extreme Fear showed lower but more stable results. This suggests that sentiment indicators like the Fear & Greed Index can be useful in timing trades.
