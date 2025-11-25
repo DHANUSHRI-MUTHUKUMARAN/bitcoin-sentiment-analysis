@@ -13,3 +13,10 @@ By combining sentiment data with historical trading data, I calculated the avera
 - Python  
 - Pandas  
 - Matplotlib
+## Visualizations
+
+### 📊 Average Profit by Sentiment
+![Bar Chart](Images/bar_char.png)
+
+### 🥧 Win Rate by Sentiment
+![Pie Chart](Images/pie_chart.png)
